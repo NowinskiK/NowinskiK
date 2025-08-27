@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 My name is Kamil
 
-<!--
-**NowinskiK/NowinskiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current second home (work) is [Avanade](https://www.avanade.com/)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on the following projects:
+  - azure.datafactory.tools: [GitHub](https://github.com/Azure-Player/azure.datafactory.tools) | [PSGallery](https://www.powershellgallery.com/packages/azure.datafactory.tools/)
+  - azure.datafactory.devops: [GitHub](https://github.com/Azure-Player/azure.datafactory.devops) | [Azure DevOps Pipelines Extension](https://marketplace.visualstudio.com/items?itemName=SQLPlayer.DataFactoryTools)
+  - FabricTools: [GitHub](https://github.com/dataplat/FabricTools) | [PSGallery](https://www.powershellgallery.com/packages/FabricTools/)
+- 🌱 I’m currently learning how to **vibe-coding and where AI can help in my daily job**
+- 💬 Ask me about **anything related to Cloud Data Platforms**
+- 📫 How to reach me: **See the links on the left panel**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **TBD :)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowinskik&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)

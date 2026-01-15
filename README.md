@@ -13,4 +13,4 @@ My current second home (work) is [Avanade](https://www.avanade.com/).
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **TBD :)**
 
-[![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowinskik&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowinskik&show_icons=true&theme=gruvbox)](https://github.com/nowinskik/github-readme-stats)

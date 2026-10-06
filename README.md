@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Kamil
 
-My current second home (work) is [Avanade](https://www.avanade.com/).  
-<img src="AvanadeLogoNoTM_AWColor_RGB.png" width="250" title="Avanade logo"></img>
+My current second home (work) is [Cloud Formations](https://www.cloudformations.org/).  
+<img src="Cloud Formations Primary 200.png" width="200" title="Cloud Formations logo"></img>
 
 - 🔭 I’m currently working on the following projects:
   - azure.datafactory.tools: [GitHub](https://github.com/Azure-Player/azure.datafactory.tools) | [PSGallery](https://www.powershellgallery.com/packages/azure.datafactory.tools/)
